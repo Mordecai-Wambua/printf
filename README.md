@@ -1,5 +1,6 @@
 # 0x11. C - printf
 `C`     `Group project`
+Partnership between Livinstone Okero and Mordecai Wambua
 
  |By: Julien Barbier, co-founder & CEO|
  |-----
